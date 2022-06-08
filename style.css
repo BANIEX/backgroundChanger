@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    width :100%;
+    background: burlywood;
+
+}
+.wrapper{
+    width: 60%;
+    margin: 50px auto;
+}
+.top{
+    background: blue;
+    height: 500px;
+
+}
+.bottom{
+    margin: 0px auto;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+button{
+    cursor: pointer;
+}
